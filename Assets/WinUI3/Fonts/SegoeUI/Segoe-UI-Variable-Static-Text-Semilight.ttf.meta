@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: fd3b6951f3d110f42bf04203f4a13936
+guid: 00e336cef7f03ff4cb540665aabc263b
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,9 +9,10 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Segoe UI Variable Static Small
+  - Segoe UI Variable Static Text
   fallbackFontReferences:
-  - {fileID: 12800000, guid: c8038d5f2565f5042a1127da88cb0ccd, type: 3}
+  - {fileID: 12800000, guid: 1aa11fef8be62d04e9ef11c584417b3c, type: 3}
+  - {fileID: 12800000, guid: d13e48a798e036b469b5c59bb1f4577c, type: 3}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1

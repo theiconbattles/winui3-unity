@@ -90,7 +90,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7dfe07787be4c9a48a44623eba607302, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tabGroup: {fileID: 0}
   background: {fileID: 0}
 --- !u!114 &6926764916612770591
 MonoBehaviour:
@@ -185,8 +184,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: New Text
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 12aef2136bbdb1e4da9fd88d6cd0244d, type: 2}
+  m_sharedMaterial: {fileID: 5684005740824999843, guid: 12aef2136bbdb1e4da9fd88d6cd0244d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

@@ -67,8 +67,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Lorem ipsum dolor sit amet...
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 1a1c80c4fadbda640be0c68860cb48c5, type: 2}
-  m_sharedMaterial: {fileID: -368915268826883282, guid: 6c874a40db4185948aa8b11becf81eb2, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 12aef2136bbdb1e4da9fd88d6cd0244d, type: 2}
+  m_sharedMaterial: {fileID: 5684005740824999843, guid: 12aef2136bbdb1e4da9fd88d6cd0244d, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -131,6 +131,6 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
-  m_hasFontAssetChanged: 1
+  m_hasFontAssetChanged: 0
   m_baseMaterial: {fileID: 0}
   m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
